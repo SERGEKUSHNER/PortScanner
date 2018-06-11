@@ -1,0 +1,9 @@
+C:\Users\seraph\source\repos\20100304194756909\PortScanner.NET\PortScanner\bin\Debug\PortScanner.exe
+C:\Users\seraph\source\repos\20100304194756909\PortScanner.NET\PortScanner\bin\Debug\PortScanner.pdb
+C:\Users\seraph\source\repos\20100304194756909\PortScanner.NET\PortScanner\obj\Debug\PortScanner.NET.csprojResolveAssemblyReference.cache
+C:\Users\seraph\source\repos\20100304194756909\PortScanner.NET\PortScanner\obj\Debug\PortScanner.frmMain.resources
+C:\Users\seraph\source\repos\20100304194756909\PortScanner.NET\PortScanner\obj\Debug\PortScanner.Properties.Resources.resources
+C:\Users\seraph\source\repos\20100304194756909\PortScanner.NET\PortScanner\obj\Debug\PortScanner.NET.csproj.GenerateResource.cache
+C:\Users\seraph\source\repos\20100304194756909\PortScanner.NET\PortScanner\obj\Debug\PortScanner.NET.csproj.CoreCompileInputs.cache
+C:\Users\seraph\source\repos\20100304194756909\PortScanner.NET\PortScanner\obj\Debug\PortScanner.exe
+C:\Users\seraph\source\repos\20100304194756909\PortScanner.NET\PortScanner\obj\Debug\PortScanner.pdb
